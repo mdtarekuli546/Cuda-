@@ -1,0 +1,47 @@
+@media (min-width: 1400px) {}
+@media (min-width: 1200px) and (max-width: 1399px){}
+@media (min-width: 992px) and (max-width: 1199px){}
+@media (min-width: 768px) and (max-width: 991px){
+   
+}
+@media (min-width: 576px) and (max-width: 767px){
+    .bar{
+      
+        display:block;
+    }
+    .mane-menu{
+        width:70%;
+        float:left;
+        display: none;
+    }
+    .slider-area{
+        padding-top: 00px;
+    }
+
+}
+@media (min-width: 250px) and (max-width: 575px){
+    .bar{
+       
+        display:block;
+    }
+    .mane-menu{
+        width:70%;
+        float:left;
+        display: none;
+    }
+    .slider-area{
+        padding-top: 00px;
+    }
+    .lap-boxes > .box > .llll {
+        width: 100%;
+        height: 300px;
+        margin: auto;
+    }
+    .submit-area input {
+        padding: 15px 40px;
+       
+    }
+    .submit-area {
+        width: 80%;
+    }
+}
